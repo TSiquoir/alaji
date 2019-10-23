@@ -1,0 +1,13 @@
+body {
+    background: #630e08;
+}
+
+h1 {
+    text-align: center;
+    color: #a9a9a9;
+    text-transform: uppercase;
+    font-size: 40px;
+    text-shadow: 0px 0px 4px #000;
+    font-family: monospace;
+}
+
